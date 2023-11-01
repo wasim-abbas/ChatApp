@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814698891789",
+    "project_id": "patientchatapp-26fc4",
+    "storage_bucket": "patientchatapp-26fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814698891789:android:9b38c948d2ad76b77e6344",
+        "android_client_info": {
+          "package_name": "com.wasim.csdl.patient_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8MUTCaXLWfVyW5ttzeryKyXdEqBoZQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
